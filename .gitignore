@@ -3,6 +3,7 @@
 /.vscode
 /.pnp
 .pnp.js
+index.scss
 
 #production
 /build
