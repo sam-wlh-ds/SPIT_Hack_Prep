@@ -11964,4 +11964,10 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+/* Carousel Styling */
+.carousel-item img {
+  height: 400px; /* Set your desired height */
+  -o-object-fit: cover;
+     object-fit: cover; /* This ensures the image covers the area without distortion */
 }/*# sourceMappingURL=index.css.map */

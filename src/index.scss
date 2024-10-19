@@ -6,3 +6,9 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
+
+/* Carousel Styling */
+.carousel-item img {
+    height: 400px; /* Set your desired height */
+    object-fit: cover; /* This ensures the image covers the area without distortion */
+  }  
