@@ -10,11 +10,3 @@ root.render(
     <RouterProvider router={router} />
   </React.StrictMode>
 );
-
-// hi kalp here
-
-// bina pull wala
-
-// hi sam here
-
-// samyak here
